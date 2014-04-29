@@ -19,7 +19,7 @@ header, main h1 {
 }
 
 a, a:visited {
-	color:#FF00FF;
+	color:#01DF01;
 	text-decoration:none;
 }
 
@@ -44,7 +44,7 @@ a:hover {
 	height:30px;
 	width:110px;
 	text-align:center;
-	font-size:13px;
+	font-size:15px;
 	border: 2px solid white;
 	border-radius:10px;
 }
@@ -67,7 +67,7 @@ a:hover {
 	width: 125px;
 	padding:5px;
 	margin-bottom:10px;
-	font-size:13px;
+	font-size:15px;
 	}
 	
 article {
